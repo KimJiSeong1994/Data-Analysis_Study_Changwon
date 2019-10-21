@@ -16,3 +16,10 @@
 ### 자연어 처리
 
 * <a href="https://wikidocs.net/book/2155">딥 러닝을 이용한 자연어 처리 입문</a> - wikidocs
+
+
+---
+
+### etc. 
+
+* <a href="https://mrkevinna.github.io/%EB%8B%A4%EC%9D%8C-%EC%B9%B4%EC%B9%B4%EC%98%A4-API%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%A7%80%EB%8F%84-%EC%8B%9C%EA%B0%81%ED%99%94/">GIS-data</a> - Kakao API 활용 
