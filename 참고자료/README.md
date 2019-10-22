@@ -9,7 +9,9 @@
 * <a href="https://nbviewer.jupyter.org/github/rickiepark/handson-ml/blob/master/index.ipynb">핸즈온 머신러닝</a> -github
 * <a href="https://tutorials.pytorch.kr/index.html#">PyTorch Tutorials</a> - 파이토치 튜토리얼 한글판
 * <a href="http://ndres.me/kaggle-past-solutions/">Kaggle Past Solutions</a> - 지난 캐글 대회 솔루션 모음
+* <a href="https://www.slideshare.net/freepsw/boosting-bagging-vs-boosting">How to boosting </a> - boosting 기법 이해
 * <a href="https://explained.ai/rf-importance/">Beware Default Random Forest Importances</a> - 특징 중요도에 관하여...
+
 
 ---
 
