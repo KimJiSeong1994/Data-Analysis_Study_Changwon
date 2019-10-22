@@ -36,6 +36,11 @@
 * <a href="https://ropensci.github.io/RSelenium/articles/basics.html">How to use RSelenium</a> - RSelenium
 * <a href="https://happygitwithr.com/github-pat.html#step-by-step">How to use GIT-HUB</a> - Git-hub
 
+---
+
+### R Shiny
+* <a href="https://mastering-shiny.org/">Shiny</a> - R Shiny
+
 
 ---
 ### Tool install
