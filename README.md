@@ -4,7 +4,7 @@
 <p> 스터디원    : <a href="https://github.com/KimJiSeong1994">김지성</a>, 
                  <a href="https://github.com/Kim-GaYeon">김가연</a>,
                  김소연, 
-                 이창규, 
+                 <a href="https://github.com/JakeLeecg">이창규</a>, 
                  <a href="https://github.com/woojung2132">최우정</a>, 
                  하상집, 
                  <a href="https://github.com/dkslss">한인용</a>
