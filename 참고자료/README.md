@@ -18,7 +18,7 @@
 ### 자연어 처리
 
 * <a href="https://wikidocs.net/book/2155">딥 러닝을 이용한 자연어 처리 입문</a> - wikidocs
-* <a href="https://brunch.co.kr/@trost/27">한국어를 위한 어휘 임베딩</a> - word Embedding
+* <a href="https://brunch.co.kr/@trost/27">한국어를 위한 어휘 임베딩</a> - Word Embedding
 
 
 ---
