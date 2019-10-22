@@ -12,6 +12,8 @@
 * <a href="https://www.slideshare.net/freepsw/boosting-bagging-vs-boosting">How to boosting </a> - boosting 기법 이해
 * <a href="https://explained.ai/rf-importance/">Beware Default Random Forest Importances</a> - 특징 중요도에 관하여...
 
+### Deep learning 
+* <a href="https://je-d.tistory.com/entry/%ED%95%A9%EC%84%B1%EA%B3%B1-%EC%8B%A0%EA%B2%BD%EB%A7%9DCNN">Convolutional neural network</a> - CNN 기초 개념
 
 ---
 
