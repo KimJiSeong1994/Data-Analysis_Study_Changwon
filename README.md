@@ -6,7 +6,7 @@
                  김소연, 
                  <a href="https://github.com/JakeLeecg">이창규</a>, 
                  <a href="https://github.com/woojung2132">최우정</a>, 
-                 하상집, 
+                 <a href="https://github.com/sangjip">하상집</a>, 
                  <a href="https://github.com/dkslss">한인용</a>
 
 <p> 스터디 일정  : 매주 금요일 7시 </p> 
