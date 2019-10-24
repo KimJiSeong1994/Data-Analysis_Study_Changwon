@@ -30,7 +30,14 @@
 * <a href="https://brunch.co.kr/@goodvc78/16">Word2vec 그리고 추천 시스템</a> - Item2vec
 
 ---
+### R Shiny
+* <a href="https://mastering-shiny.org/">Shiny</a> - R Shiny
 
+---
+### Tool install
+* <a href="http://blog.naver.com/PostView.nhn?blogId=lingua&logNo=221478347944">install_tensorflow</a> - tensorflow 설치 방법
+
+---
 ### etc. 
 
 * <a href="https://mrkevinna.github.io/%EB%8B%A4%EC%9D%8C-%EC%B9%B4%EC%B9%B4%EC%98%A4-API%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%A7%80%EB%8F%84-%EC%8B%9C%EA%B0%81%ED%99%94/">GIS-data</a> - Kakao API 활용 
@@ -38,13 +45,4 @@
 * <a href="https://ropensci.github.io/RSelenium/articles/basics.html">How to use RSelenium</a> - RSelenium
 * <a href="https://happygitwithr.com/github-pat.html#step-by-step">How to use GIT-HUB</a> - Git-hub
 * <a href= "https://www.r-graph-gallery.com/"> R graph gallery</a>
----
-
-### R Shiny
-* <a href="https://mastering-shiny.org/">Shiny</a> - R Shiny
-
-
----
-### Tool install
-* <a href="http://blog.naver.com/PostView.nhn?blogId=lingua&logNo=221478347944">install_tensorflow</a> - tensorflow 설치 방법
 
