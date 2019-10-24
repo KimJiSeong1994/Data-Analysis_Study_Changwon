@@ -1,6 +1,6 @@
 ### 데이터 분석을 위한 프로그래밍 기초 
 * <a href="https://r4ds.had.co.nz/">R for Data Science</a> - 데이터과학을 위한 R 기초 (원서) 
-
+* <a href="https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_r.html?highlight=filter">Diff. tiding function R, Python</a> - R과 Pyhon 전처리 코드 비교 
 ---
 
 ### 데이터 분석 및 머신러닝 기초
