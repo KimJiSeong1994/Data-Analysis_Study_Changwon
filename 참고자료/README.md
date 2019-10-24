@@ -18,6 +18,8 @@
 * <a href="https://je-d.tistory.com/entry/%ED%95%A9%EC%84%B1%EA%B3%B1-%EC%8B%A0%EA%B2%BD%EB%A7%9DCNN">Convolutional neural network</a> - CNN 기초 개념
 * <a href="https://excelsior-cjh.tistory.com/79">Convolutional neural network</a> - CNN 기초 개념 (2) 
 * <a href="https://excelsior-cjh.tistory.com/79">CNN Backpropagation </a> - CNN Backpropagation 개념
+* <a href="https://www.slideshare.net/yongho/ss-79607172">Deep learning 기초개념</a> - 자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다. 
+
 
 ---
 
