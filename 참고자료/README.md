@@ -25,7 +25,7 @@
 
 ### 자연어 처리
 
-* <a href="https://www.tidytextmining.com/index.html">Text Mining with R</> - R로하는 텍스트마이닝 (원서)
+* <a href="https://www.tidytextmining.com/index.html">Text Mining with R</a> - R로하는 텍스트마이닝 (원서)
 * <a href="https://wikidocs.net/book/2155">딥 러닝을 이용한 자연어 처리 입문</a> - wikidocs
 * <a href="https://brunch.co.kr/@trost/27">한국어를 위한 어휘 임베딩</a> - Word Embedding
 * <a href="https://brunch.co.kr/@goodvc78/16">Word2vec 그리고 추천 시스템</a> - Item2vec
