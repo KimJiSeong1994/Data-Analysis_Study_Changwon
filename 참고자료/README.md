@@ -12,7 +12,7 @@
 * <a href="https://www.slideshare.net/freepsw/boosting-bagging-vs-boosting">How to boosting </a> - boosting 기법 이해
 * <a href="https://explained.ai/rf-importance/">Beware Default Random Forest Importances</a> - 특징 중요도에 관하여...
 * <a href="https://bcho.tistory.com/1354">XGBoosting</a> - XGBoosting 기본개념 
-
+* <a href="https://aldente0630.github.io/data-science/2018/06/29/highly-efficient-gbdt.html">LightGBM</a> - LightGBM 고효율 그래디언트 부스팅 결정 트리 (번역)
 ---
 
 ### Deep learning 
