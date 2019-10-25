@@ -46,5 +46,6 @@
 * <a href="https://ropensci.github.io/RSelenium/articles/basics.html">How to use RSelenium</a> - RSelenium
 * <a href="https://happygitwithr.com/github-pat.html#step-by-step">How to use GIT-HUB</a> - Git-hub
 * <a href="https://www.r-graph-gallery.com/"> R graph gallery</a>
-* <a href ="https://github.com/graykode/nlp-roadmap/blob/master/README.md">Natural Language Processing RoadMap</a> - Study road map
+* <a href="https://github.com/graykode/nlp-roadmap/blob/master/README.md">Natural Language Processing RoadMap</a> - Study road map
+* <a href="https://blog.pabii.co.kr/r-python-rpy2-1/> Python_Rpy2 </a> R + Python 연동하기
 
