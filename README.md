@@ -9,5 +9,5 @@
                  <a href="https://github.com/sangjip">하상집</a>, 
                  <a href="https://github.com/dkslss">한인용</a>
 
-<p> 스터디 일정  : 매주 금요일 7시 </p> 
-<p> 장소       : 창원역 할리스 </p>
+> <p> 스터디 일정  : 매주 금요일 7시 </p> 
+> <p> 장소       : 창원역 할리스 </p>
