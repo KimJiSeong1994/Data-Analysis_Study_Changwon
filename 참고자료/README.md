@@ -11,6 +11,7 @@
 * <a href="http://ndres.me/kaggle-past-solutions/">Kaggle Past Solutions</a> - 지난 캐글 대회 솔루션 모음
 * <a href="https://www.slideshare.net/freepsw/boosting-bagging-vs-boosting">How to boosting </a> - boosting 기법 이해
 * <a href="https://explained.ai/rf-importance/">Beware Default Random Forest Importances</a> - 특징 중요도에 관하여...
+* <a href="https://bcho.tistory.com/1354">XGBoosting</a> - XGBoosting 기본개념 
 
 ---
 
