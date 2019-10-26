@@ -50,3 +50,4 @@
 * <a href="https://github.com/graykode/nlp-roadmap/blob/master/README.md">Natural Language Processing RoadMap</a> - Study road map
 * <a href="https://blog.pabii.co.kr/r-python-rpy2-1/">Python_Rpy2</a> R + Python 연동하기
 * <a href="https://junpyopark.github.io/Jupyter_Extension/">Python Jupyter NoteBook</a> - 주피터 노트북 익스텐션 활용
+* <a href="https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447">Open-sourcing Polynote: an IDE-inspired polyglot notebook</a> - Jupyter Notebook 손쉽게 사용하기
