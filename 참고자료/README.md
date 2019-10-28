@@ -52,4 +52,4 @@
 * <a href="https://junpyopark.github.io/Jupyter_Extension/">Python Jupyter NoteBook</a> - 주피터 노트북 익스텐션 활용
 * <a href="https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447">Open-sourcing Polynote: an IDE-inspired polyglot notebook</a> - Jupyter Notebook 손쉽게 사용하기
 * <a href="http://www.dodomira.com/2016/10/20/how_to_eda/">How to EDA</a> - EDA 관련 정리 블로그
-* <a href="https://github.com/daattali/timevis">R time table in Shiny</a> 
+* <a href="https://github.com/daattali/timevis">Make time table in R-Shiny</a> 
