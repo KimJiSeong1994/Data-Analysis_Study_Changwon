@@ -2,6 +2,7 @@
 * <a href="https://r4ds.had.co.nz/">R for Data Science</a> - 데이터과학을 위한 R 기초 (원서) 
 * <a href="https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_r.html?highlight=filter">Diff. tidying function R, Python</a> - R과 Pyhon 전처리 코드 비교 
 * <a href="https://gist.github.com/conormm/fd8b1980c28dd21cfaf6975c86c74d07">Diff. tidying function R, Python(2)</a> - R과 Pyhon 전처리 코드 비교(2)
+* <a href="https://statkclee.github.io/parallel-r/ds-fp-purrr.html">R map function</a> - R 병렬 프로그래밍
 ---
 
 ### 데이터 분석 및 머신러닝 기초
