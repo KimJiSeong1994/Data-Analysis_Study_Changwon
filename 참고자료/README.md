@@ -58,3 +58,4 @@
 * <a href="https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447">Open-sourcing Polynote: an IDE-inspired polyglot notebook</a> - Jupyter Notebook 손쉽게 사용하기
 * <a href="http://www.dodomira.com/2016/10/20/how_to_eda/">How to EDA</a> - EDA 관련 정리 블로그
 * <a href="https://github.com/daattali/timevis">Make time table in R-Shiny</a> 
+* <a href="https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions">Winning solutions of kaggle competitions</a>
