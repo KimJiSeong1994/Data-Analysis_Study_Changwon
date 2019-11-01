@@ -33,6 +33,7 @@
 * <a href="https://brunch.co.kr/@trost/27">한국어를 위한 어휘 임베딩</a> - Word Embedding
 * <a href="https://brunch.co.kr/@goodvc78/16">Word2vec 그리고 추천 시스템</a> - Item2vec
 * <a href="https://www.inflearn.com/course/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D/">생활코딩 정규표현식</a> - 정규표현식 인강 
+* <a href="https://wikidocs.net/4308">정규표현식</a> - Jump to Python
 
 ---
 ### R Shiny
