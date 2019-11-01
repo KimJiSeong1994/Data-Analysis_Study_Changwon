@@ -23,7 +23,7 @@
 * <a href="https://excelsior-cjh.tistory.com/79">CNN Backpropagation </a> - CNN Backpropagation 개념
 * <a href="https://www.slideshare.net/yongho/ss-79607172">Deep learning 기초개념</a> - 자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다. 
 * <a href="https://www.inflearn.com/course/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B0%95%EC%A2%8C">모두를 위한 딥러닝</a> - 인프런 인강
-<a href="https://www.youtube.com/playlist?list=PL6ip5tgLI7PcStXTz8CRMhNWmT8M0dAWO">10분 Deeplearning</a> - 딥러닝 유트브 강의
+* <a href="https://www.youtube.com/playlist?list=PL6ip5tgLI7PcStXTz8CRMhNWmT8M0dAWO">10분 Deeplearning</a> - 딥러닝 유트브 강의
 
 ---
 
