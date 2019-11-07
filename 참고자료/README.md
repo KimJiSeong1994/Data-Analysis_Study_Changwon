@@ -41,6 +41,7 @@
 ---
 ### R Shiny
 * <a href="https://mastering-shiny.org/">Shiny</a> - R Shiny
+* <a href= "https://mrchypark.github.io/dabrp_classnote3/class8#1">How to use Shiny</a>  
 
 ---
 ### Tool install
