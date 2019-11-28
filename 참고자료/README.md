@@ -1,5 +1,7 @@
 ### 데이터 분석을 위한 수학 
-* <a href="https://rpubs.com/hardwell/LinearAlgebra"> LinearAlgebra </a> - R로하는 선형대수학  
+* <a href="https://rpubs.com/hardwell/LinearAlgebra"> LinearAlgebra </a> - 선형대수학
+* <a href="http://bbs.nicklib.com/algorithm/1670"> LinearAlgebra </a> - 선형대수학 (2)
+
 
 ---
 ### 데이터 분석을 위한 프로그래밍 기초 
