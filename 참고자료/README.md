@@ -1,5 +1,5 @@
 ### 데이터 분석을 위한 수학 
-* <a href="https://rpubs.com/hardwell/LinearAlgebra"> - LinearAlgebra(선형대수학) in R  
+* <a href="https://rpubs.com/hardwell/LinearAlgebra"> LinearAlgebra </a> - R로하는 선형대수학  
 
 ---
 ### 데이터 분석을 위한 프로그래밍 기초 
