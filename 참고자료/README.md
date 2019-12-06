@@ -17,6 +17,7 @@
 
 * <a href="https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb">Python Data Science Handbook with Python</a> - github
 * <a href="https://nbviewer.jupyter.org/github/rickiepark/handson-ml/blob/master/index.ipynb">핸즈온 머신러닝</a> -github
+* <a href="https://bradleyboehmke.github.io/HOML/">핸즈온 머신러닝 with R </a> - ebook
 * <a href="https://tutorials.pytorch.kr/index.html#">PyTorch Tutorials</a> - 파이토치 튜토리얼 한글판
 * <a href="http://ndres.me/kaggle-past-solutions/">Kaggle Past Solutions</a> - 지난 캐글 대회 솔루션 모음
 * <a href="https://www.slideshare.net/freepsw/boosting-bagging-vs-boosting">How to boosting </a> - boosting 기법 이해
