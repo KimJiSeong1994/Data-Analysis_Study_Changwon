@@ -46,6 +46,7 @@
 * <a href="https://www.inflearn.com/course/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D/">생활코딩 정규표현식</a> - 정규표현식 인강 
 * <a href="https://wikidocs.net/4308">정규표현식</a> - Jump to Python
 * <a href="https://github.com/haven-jeon/KoSpacing">KoSpacing</a> - 띄어쓰기 교정 패키지 in R 
+* <a href="https://reniew.github.io/25/">NLP를 위한 CNN (1)
 
 ---
 ### R Shiny
