@@ -64,6 +64,10 @@
 * <a href="http://statkclee.github.io/deep-learning/ms-oxford-age.html"> R을 이용한 사진속 나이 추정(2)</a>
 ---
 
+### 시각화 
+* <a href="https://github.com/ricardo-bion/ggradar">How to plotting radar chart in R 
+ 
+___
 
 ### etc. 
 
