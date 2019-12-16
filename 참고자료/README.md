@@ -70,7 +70,7 @@
 ___
 
 ### etc. 
-* <a href="http://www.dbguide.net/knowledge.db?cmd=view&boardUid=202869&boardConfigUid=19&boardStep=&categoryUid=1296">How to use API -MrKevinNa column
+* <a href="http://www.dbguide.net/knowledge.db?cmd=view&boardUid=202869&boardConfigUid=19&boardStep=&categoryUid=1296">How to use API - MrKevinNa column
 * <a href="https://mrkevinna.github.io/%EB%8B%A4%EC%9D%8C-%EC%B9%B4%EC%B9%B4%EC%98%A4-API%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%A7%80%EB%8F%84-%EC%8B%9C%EA%B0%81%ED%99%94/">GIS-data</a> - Kakao API 활용 
 * <a href="http://blog.naver.com/PostView.nhn?blogId=nyaminyam&logNo=221249381133&parentCategoryNo=&categoryNo=27&viewDate=&isShowPopularPosts=false&from=postView">RSelenium</a> - How to data gathering in R  
 * <a href="https://ropensci.github.io/RSelenium/articles/basics.html">How to use RSelenium</a> - RSelenium
