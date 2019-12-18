@@ -65,7 +65,8 @@
 ---
 
 ### 시각화 
-* <a href="https://github.com/ricardo-bion/ggradar">How to plotting radar chart in R 
+* <a href="https://github.com/ricardo-bion/ggradar">How to plotting radar chart in R
+ * <a href="https://zzsza.github.io/development/2018/08/24/data-visualization-in-python/"> Python에서 데이터 시각화는 여러가지 방법
  
 ___
 
