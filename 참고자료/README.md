@@ -26,7 +26,7 @@
 * <a href="https://aldente0630.github.io/data-science/2018/06/29/highly-efficient-gbdt.html">LightGBM</a> - LightGBM 고효율 그래디언트 부스팅 결정 트리 (번역)
 * <a href="https://mkjjo.github.io/python/2019/01/10/scaler.html">How to scaling</a>
 * <a href="https://freshrimpsushi.tistory.com/558">How to use bootstrap 
-
+* <a href="https://rpubs.com/vadimus/bootstrap"> The Bootstrap Approach to Managing Model Uncertainty
 ---
 
 ### Deep learning 
