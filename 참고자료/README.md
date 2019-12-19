@@ -24,7 +24,9 @@
 * <a href="https://explained.ai/rf-importance/">Beware Default Random Forest Importances</a> - 특징 중요도에 관하여...
 * <a href="https://bcho.tistory.com/1354">XGBoosting</a> - XGBoosting 기본개념 
 * <a href="https://aldente0630.github.io/data-science/2018/06/29/highly-efficient-gbdt.html">LightGBM</a> - LightGBM 고효율 그래디언트 부스팅 결정 트리 (번역)
-* <a href = "https://mkjjo.github.io/python/2019/01/10/scaler.html">How to scaling</a>
+* <a href="https://mkjjo.github.io/python/2019/01/10/scaler.html">How to scaling</a>
+* <a href="https://freshrimpsushi.tistory.com/558">How to use bootstrap 
+
 ---
 
 ### Deep learning 
