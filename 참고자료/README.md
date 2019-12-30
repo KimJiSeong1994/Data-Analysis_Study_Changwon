@@ -54,7 +54,7 @@
 ### R Shiny
 * <a href="https://mastering-shiny.org/">Shiny</a> - R Shiny
 * <a href= "https://mrchypark.github.io/dabrp_classnote3/class8#1">How to use Shiny</a>  
-
+* <a href="https://mastering-shiny.org/"> Mastering Shiny R
 ---
 ### Tool install
 * <a href="http://blog.naver.com/PostView.nhn?blogId=lingua&logNo=221478347944">install_tensorflow</a> - tensorflow 설치 방법
