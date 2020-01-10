@@ -7,7 +7,8 @@
                  <a href="https://github.com/JakeLeecg">이창규</a>, 
                  <a href="https://github.com/woojung2132">최우정</a>, 
                  <a href="https://github.com/sangjip">하상집</a>, 
-                 <a href="https://github.com/dkslss">한인용</a>
+                 <a href="https://github.com/dkslss">한인용</a>,
+                 <a href ="https://github.com/zpdl95">최재원</a>
 
 <p> 스터디 일정  : 매주 화 ( 프로젝트 진행시 ) & 금요일 7시 </p> 
 <p> 장소       : 창원역 할리스 </p>
