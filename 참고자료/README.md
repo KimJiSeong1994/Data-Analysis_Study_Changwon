@@ -66,6 +66,7 @@
 ### image 
 * <a href="https://statkclee.github.io/deep-learning/ms-oxford-kcode-tutorial.html">R을 이용한 사진속 나이 추정(1)</a>
 * <a href="http://statkclee.github.io/deep-learning/ms-oxford-age.html"> R을 이용한 사진속 나이 추정(2)</a>
+* <a href="https://dahtah.github.io/imager/imager.html"> imager: an R package for image processing
 ---
 
 ### 시각화 
