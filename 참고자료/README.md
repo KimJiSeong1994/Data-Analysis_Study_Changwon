@@ -55,7 +55,7 @@
 * <a href="https://github.com/haven-jeon/KoSpacing">KoSpacing</a> - 띄어쓰기 교정 패키지 in R 
 * <a href="https://reniew.github.io/25/">NLP를 위한 CNN (1)
 * <a href="https://wikidocs.net/50698">딥러닝을 이용한 자연어처리 입문 
-
+* <a href="https://nlp.stanford.edu/projects/glove/"> GloVe
 ---
 ### R Shiny
 * <a href="https://mastering-shiny.org/">Shiny</a> - R Shiny
