@@ -41,7 +41,9 @@
 * <a href= "https://www.slideshare.net/wonjoonyoo/ss-188835227">Deep Learning for Natural Language Processing</a>
 * <a href="http://solarisailab.com/archives/1206"> 딥러닝의 역사 – 퍼셉트론(Perceptron)부터 GAN(Generative Adversarial Networks)까지 – 1/2 </a>
 * <a href="https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html?fbclid=IwAR1wvcmG5ChTRlP8k0WzJCmvIXTw8yEa1hE8Z4lobZZdwyH4LPZPwMjQ9Lc"> Hyperparameter tuning with Keras Tuner
- <a href="https://towardsdatascience.com/graph-embeddings-the-summary-cc6075aba007"> Graph Embedding
+* <a href="https://towardsdatascience.com/graph-embeddings-the-summary-cc6075aba007"> Graph Embedding
+* <a herf= "https://www.inflearn.com/course/Python-R-go/dashboard"> 인공지능 R Go 하자 
+  
 ---
 
 ### 자연어 처리
@@ -75,7 +77,7 @@
 
 ### 시각화 
 * <a href="https://github.com/ricardo-bion/ggradar">How to plotting radar chart in R
- * <a href="https://zzsza.github.io/development/2018/08/24/data-visualization-in-python/"> Python에서 데이터 시각화는 여러가지 방법
+* <a href="https://zzsza.github.io/development/2018/08/24/data-visualization-in-python/"> Python에서 데이터 시각화는 여러가지 방법
  
 ___
 
