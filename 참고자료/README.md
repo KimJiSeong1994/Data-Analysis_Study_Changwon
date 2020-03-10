@@ -86,6 +86,7 @@
 ___
 
 ### etc. 
+* <a href= "https://rstudio-pubs-static.s3.amazonaws.com/192402_012091b9adac42dbbd22c4d07cb00d36.html?fbclid=IwAR0xM_woUalBjhrx9tv2SCA0-QIh8Man5K6TSl4Rdk10JsAYE8GgmpySJkA"> 누락된 자료의 처리 방법</a>
 * <a href="https://towardsdatascience.com/all-about-missing-data-handling-b94b8b5d2184"> All About Missing Data Handling: Missing Data Imputation Techniques
 * <a href="http://www.dbguide.net/knowledge.db?cmd=view&boardUid=202869&boardConfigUid=19&boardStep=&categoryUid=1296">How to use API - MrKevinNa column
 * <a href="https://mrkevinna.github.io/%EB%8B%A4%EC%9D%8C-%EC%B9%B4%EC%B9%B4%EC%98%A4-API%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%A7%80%EB%8F%84-%EC%8B%9C%EA%B0%81%ED%99%94/">GIS-data</a> - Kakao API 활용 
