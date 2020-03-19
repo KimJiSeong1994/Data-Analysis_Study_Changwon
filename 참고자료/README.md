@@ -29,7 +29,7 @@
 * <a href="https://freshrimpsushi.tistory.com/558">How to use bootstrap 
 * <a href="https://rpubs.com/vadimus/bootstrap"> The Bootstrap Approach to Managing Model Uncertainty
 * <a href="https://github.com/KimJiSeong1994/Kaggle_PJT/tree/master/Bike_Sharing_Demand/Reference"> XGBoost Parameter def.
- 
+* <a href="https://statkclee.github.io/model/model-ensemble.html"> How to Model ensemble </a>
 ---
 
 ### Deep learning 
