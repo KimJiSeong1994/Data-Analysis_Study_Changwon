@@ -70,6 +70,7 @@
 ---
 ### Tool install
 * <a href="http://blog.naver.com/PostView.nhn?blogId=lingua&logNo=221478347944">install_tensorflow</a> - tensorflow 설치 방법
+* <a href="https://n1094.tistory.com/42">install_CUDA+cuDNN</a> - CUDA+cuDNN 설치 방법
 
 ---
 
