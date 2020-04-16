@@ -44,9 +44,10 @@
 * <a href="https://www.youtube.com/playlist?list=PL6ip5tgLI7PcStXTz8CRMhNWmT8M0dAWO">10분 Deeplearning</a> - 딥러닝 유트브 강의
 * <a href= "https://www.slideshare.net/wonjoonyoo/ss-188835227">Deep Learning for Natural Language Processing</a>
 * <a href="http://solarisailab.com/archives/1206"> 딥러닝의 역사 – 퍼셉트론(Perceptron)부터 GAN(Generative Adversarial Networks)까지 – 1/2 </a>
-* <a href="https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html?fbclid=IwAR1wvcmG5ChTRlP8k0WzJCmvIXTw8yEa1hE8Z4lobZZdwyH4LPZPwMjQ9Lc"> Hyperparameter tuning with Keras Tuner
-* <a href="https://towardsdatascience.com/graph-embeddings-the-summary-cc6075aba007"> Graph Embedding
-* <a herf= "https://www.inflearn.com/course/Python-R-go/dashboard"> 인공지능 R Go 하자 
+* <a href="https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html?fbclid=IwAR1wvcmG5ChTRlP8k0WzJCmvIXTw8yEa1hE8Z4lobZZdwyH4LPZPwMjQ9Lc"> Hyperparameter tuning with Keras Tuner </a>
+* <a href="https://towardsdatascience.com/graph-embeddings-the-summary-cc6075aba007"> Graph Embedding </a>
+* <a herf= "https://www.inflearn.com/course/Python-R-go/dashboard"> 인공지능 R Go 하자 </a>
+* <a herf= "https://modelzoo.co/framework/keras"> Kera model zoo </a>  
   
 ---
 
