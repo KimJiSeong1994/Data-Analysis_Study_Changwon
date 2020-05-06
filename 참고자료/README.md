@@ -48,7 +48,8 @@
 * <a href="https://towardsdatascience.com/graph-embeddings-the-summary-cc6075aba007"> Graph Embedding </a>
 * <a herf= "https://www.inflearn.com/course/Python-R-go/dashboard"> 인공지능 R Go 하자 </a>
 * <a herf= "https://modelzoo.co/framework/keras"> Kera model zoo </a>  
-  
+* <a href = "https://3months.tistory.com/424"> Tensorflow.keras Callback function</a> 
+ 
 ---
 
 ### 자연어 처리
