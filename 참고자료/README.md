@@ -78,12 +78,17 @@
 
 ---
 
-### image 
+### Object Detection 
 * <a href="https://statkclee.github.io/deep-learning/ms-oxford-kcode-tutorial.html">R을 이용한 사진속 나이 추정(1)</a>
 * <a href="http://statkclee.github.io/deep-learning/ms-oxford-age.html"> R을 이용한 사진속 나이 추정(2)</a>
 * <a href="https://dahtah.github.io/imager/imager.html"> imager: an R package for image processing
 * <a href="https://heartbeat.fritz.ai/object-detection-in-just-3-lines-of-r-code-using-tiny-yolo-b5a16e50e8a0"> YOLO with R 
+* <a href = "https://nuggy875.tistory.com/20"> [Object Detection] 1. Object Detection 논문 흐름 및 리뷰 </a>
+* <a href = "https://nuggy875.tistory.com/21"> [Object Detection] 2. R-CNN : 딥러닝을 이용한 첫 2-stage Detector </a>
+* <a href = "https://nuggy875.tistory.com/33?category=860935"> [Object Detection] 3. Fast R-CNN & Faster R-CNN 논문 리뷰 </a>
+* <a href = "https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/"> How to Train an Object Detection Model with Keras </a>
 ---
+
 
 ### 시각화 
 * <a href="https://github.com/ricardo-bion/ggradar">How to plotting radar chart in R
