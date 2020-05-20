@@ -12,6 +12,7 @@
 * <a href="https://statkclee.github.io/data-science/ds-factor-cdata.html"> factor handeling in R </a>
 * <a href="https://github.com/gadenbuie/tidyexplain"> Data *_join function </a>
 * <a href="https://bookdown.org/martin_monkman/DataScienceResources_book/"> Data Science with R: A Resource Compendium </a>
+* <a href="https://www.kaggle.com/ekrembayar/crimes-in-boston-eda-with-r"> Quick EDA with R (DataExplorer:: __ function)
 ---
 
 ### 데이터 분석 및 머신러닝 기초
