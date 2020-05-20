@@ -11,6 +11,7 @@
 * <a href="https://statkclee.github.io/parallel-r/ds-fp-purrr.html">R map function</a> - R 병렬 프로그래밍
 * <a href="https://statkclee.github.io/data-science/ds-factor-cdata.html"> factor handeling in R </a>
 * <a href="https://github.com/gadenbuie/tidyexplain"> Data *_join function </a>
+* <a href="https://bookdown.org/martin_monkman/DataScienceResources_book/"> Data Science with R: A Resource Compendium </a>
 ---
 
 ### 데이터 분석 및 머신러닝 기초
