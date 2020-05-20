@@ -67,16 +67,6 @@
 * <a href="https://wikidocs.net/50698">딥러닝을 이용한 자연어처리 입문 
 * <a href="https://nlp.stanford.edu/projects/glove/"> GloVe
 ---
-### R Shiny
-* <a href="https://mastering-shiny.org/">Shiny</a> - R Shiny
-* <a href= "https://mrchypark.github.io/dabrp_classnote3/class8#1">How to use Shiny</a>  
-* <a href="https://mastering-shiny.org/"> Mastering Shiny R
----
-### Tool install
-* <a href="http://blog.naver.com/PostView.nhn?blogId=lingua&logNo=221478347944">install_tensorflow</a> - tensorflow 설치 방법
-* <a href="https://n1094.tistory.com/42">install_CUDA+cuDNN</a> - CUDA+cuDNN 설치 방법
-
----
 
 ### Object Detection 
 * <a href="https://statkclee.github.io/deep-learning/ms-oxford-kcode-tutorial.html">R을 이용한 사진속 나이 추정(1)</a>
@@ -87,8 +77,19 @@
 * <a href = "https://nuggy875.tistory.com/21"> [Object Detection] 2. R-CNN : 딥러닝을 이용한 첫 2-stage Detector </a>
 * <a href = "https://nuggy875.tistory.com/33?category=860935"> [Object Detection] 3. Fast R-CNN & Faster R-CNN 논문 리뷰 </a>
 * <a href = "https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/"> How to Train an Object Detection Model with Keras </a>
+ 
 ---
 
+### R Shiny
+* <a href="https://mastering-shiny.org/">Shiny</a> - R Shiny
+* <a href= "https://mrchypark.github.io/dabrp_classnote3/class8#1">How to use Shiny</a>  
+* <a href="https://mastering-shiny.org/"> Mastering Shiny R
+---
+### Tool install
+* <a href="http://blog.naver.com/PostView.nhn?blogId=lingua&logNo=221478347944">install_tensorflow</a> - tensorflow 설치 방법
+* <a href="https://n1094.tistory.com/42">install_CUDA+cuDNN</a> - CUDA+cuDNN 설치 방법
+
+---
 
 ### 시각화 
 * <a href="https://github.com/ricardo-bion/ggradar">How to plotting radar chart in R
