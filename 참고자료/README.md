@@ -66,6 +66,11 @@
 * <a href="https://reniew.github.io/25/">NLP를 위한 CNN (1)
 * <a href="https://wikidocs.net/50698">딥러닝을 이용한 자연어처리 입문 
 * <a href="https://nlp.stanford.edu/projects/glove/"> GloVe
+* <a href="https://jiho-ml.com/weekly-nlp-1/"> Week 1 - 컴퓨터에게 언어는 어떤 의미일까? </a>
+* <a href="https://jiho-ml.com/weekly-nlp-2/"> Week 2 - 단어를 가방에 때려 넣으면 문장이 된다 </a>
+* <a href="https://jiho-ml.com/weekly-nlp-3/"> Week 3 - 지구용사 벡터맨? Vector 기초 잡기! </a>
+* <a href="https://jiho-ml.com/weekly-nlp-4-2/"> Week 4 - <왕> minus <남자> plus <여자>= ? </a>
+ 
 ---
 
 ### Object Detection 
