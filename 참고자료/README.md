@@ -121,3 +121,5 @@ ___
 * <a href="https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions">Winning solutions of kaggle competitions</a>
 * <a href="https://www.jetbrains.com/pycharm/features/scientific_tools.html?utm_source=from_product&utm_medium=advertiser&utm_campaign=jupyter">jupyter notebook in Pycharm</a>
 * <a href="https://aihub.cloud.google.com/u/0/"> AI-HUB </a> 
+* <a href="https://bitbucket.org/eunjeon/mecab-ko-dic/src/master/"> [ mac os ] install Rmecab-ko-dic </a>
+ <a href="https://statkclee.github.io/text/nlp-rmecabko-install.html"> install Rmecab-ko </a>
