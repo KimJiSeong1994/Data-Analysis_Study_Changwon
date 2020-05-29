@@ -48,8 +48,8 @@
 * <a href="http://solarisailab.com/archives/1206"> 딥러닝의 역사 – 퍼셉트론(Perceptron)부터 GAN(Generative Adversarial Networks)까지 – 1/2 </a>
 * <a href="https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html?fbclid=IwAR1wvcmG5ChTRlP8k0WzJCmvIXTw8yEa1hE8Z4lobZZdwyH4LPZPwMjQ9Lc"> Hyperparameter tuning with Keras Tuner </a>
 * <a href="https://towardsdatascience.com/graph-embeddings-the-summary-cc6075aba007"> Graph Embedding </a>
-* <a herf= "https://www.inflearn.com/course/Python-R-go/dashboard"> 인공지능 R Go 하자 </a>
-* <a herf= "https://modelzoo.co/framework/keras"> Kera model zoo </a>  
+* <a href= "https://www.inflearn.com/course/Python-R-go/dashboard"> 인공지능 R Go 하자 </a>
+* <a href= "https://modelzoo.co/framework/keras"> Kera model zoo </a>  
 * <a href = "https://3months.tistory.com/424"> Tensorflow.keras Callback function</a> 
  
 ---
