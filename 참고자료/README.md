@@ -70,7 +70,7 @@
 * <a href="https://jiho-ml.com/weekly-nlp-2/"> Week 2 - 단어를 가방에 때려 넣으면 문장이 된다 </a>
 * <a href="https://jiho-ml.com/weekly-nlp-3/"> Week 3 - 지구용사 벡터맨? Vector 기초 잡기! </a>
 * <a href="https://jiho-ml.com/weekly-nlp-4-2/"> Week 4 - <왕> minus <남자> plus <여자>= ? </a>
- 
+* <a href = "https://jiho-ml.com/weekly-nlp-5/"> Week 5 - 얘랑 나랑 얼마나 비슷해? </a>
 ---
 
 ### Object Detection 
