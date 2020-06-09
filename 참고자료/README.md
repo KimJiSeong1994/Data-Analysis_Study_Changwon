@@ -34,6 +34,7 @@
 * <a href="https://github.com/KimJiSeong1994/Kaggle_PJT/tree/master/Bike_Sharing_Demand/Reference"> XGBoost Parameter def.
 * <a href="https://statkclee.github.io/model/model-ensemble.html"> How to Model ensemble </a>
 * <a href="https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python#Introduction">Introduction to Ensembling stacking in python</a>
+* <a href = "https://neptune.ai/blog/lightgbm-parameters-guide">Understanding LightGBM Parameters (and How to Tune Them)</a>
 ---
 
 ### Deep learning 
