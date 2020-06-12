@@ -74,6 +74,7 @@
 * <a href="https://jiho-ml.com/weekly-nlp-4-2/"> Week 4 - <왕> minus <남자> plus <여자>= ? </a>
 * <a href = "https://jiho-ml.com/weekly-nlp-5/"> Week 5 - 얘랑 나랑 얼마나 비슷해? </a>
 * <a href = "https://jiho-ml.com/weekly-nlp-6/"> Week 6 - 박 대리, 얘네 문서들 주제별로 분류해오게 </a>
+* <a href = "https://github.com/kimwoonggon/publicservant_AI"> publicservant_AI </a>
 ---
 
 ### Object Detection 
