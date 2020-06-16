@@ -53,7 +53,7 @@
 * <a href= "https://www.inflearn.com/course/Python-R-go/dashboard"> 인공지능 R Go 하자 </a>
 * <a href= "https://modelzoo.co/framework/keras"> Kera model zoo </a>  
 * <a href = "https://3months.tistory.com/424"> Tensorflow.keras Callback function</a> 
- 
+* <a href = "https://medium.com/blog-rilut/neural-networks-without-backpropagation-direct-feedback-alignment-30d5d4848f5"> Neural Networks without Backpropagation: Direct Feedback Alignment </a> 
 ---
 
 ### 자연어 처리
