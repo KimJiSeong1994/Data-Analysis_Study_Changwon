@@ -75,6 +75,7 @@
 * <a href = "https://jiho-ml.com/weekly-nlp-5/"> Week 5 - 얘랑 나랑 얼마나 비슷해? </a>
 * <a href = "https://jiho-ml.com/weekly-nlp-6/"> Week 6 - 박 대리, 얘네 문서들 주제별로 분류해오게 </a>
 * <a href = "https://jiho-ml.com/weekly-nlp-7/"> Week 7 - 머신 러닝과 NLP는 왜 함께 갈까 </a>
+* <a href = "https://jiho-ml.com/weekly-nlp-8/"> Week 8 - 스팸 이메일 분류기 만들기 </a>
 * <a href = "https://github.com/kimwoonggon/publicservant_AI"> publicservant_AI </a>
 * <a href = "https://blog.pingpong.us/dialog-bert-pretrain/"> 카톡 대화 데이터를 BERT로 잘 학습시킬 수 있을까? - Dialog-BERT 만들기 </a>
 ---
