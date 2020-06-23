@@ -78,6 +78,7 @@
 * <a href = "https://jiho-ml.com/weekly-nlp-8/"> Week 8 - 스팸 이메일 분류기 만들기 </a>
 * <a href = "https://github.com/kimwoonggon/publicservant_AI"> publicservant_AI </a>
 * <a href = "https://blog.pingpong.us/dialog-bert-pretrain/"> 카톡 대화 데이터를 BERT로 잘 학습시킬 수 있을까? - Dialog-BERT 만들기 </a>
+* <a href = "https://jiho-ml.com/weekly-nlp-9/"> Week 9 - 글을 그림처럼 보는 Convolutional Neural Network (CNN) </a>
 ---
 
 ### Object Detection 
