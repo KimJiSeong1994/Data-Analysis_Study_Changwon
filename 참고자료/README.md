@@ -84,6 +84,7 @@
 * - <a href = "https://fasttext.cc/"> pretrained embedding (FastText) </a>
 * <a href = "https://medium.com/syncedreview/language-model-a-survey-of-the-state-of-the-art-technology-64d1a2e5a466"> Language Model: A Survey of the State-of-the-Art Technology </a>
 * <a href = "https://github.com/KimJiSeong1994/kochat"> Kochat </a>
+* <a href = https://cran.r-project.org/web/packages/text2vec/vignettes/glove.html"> GloVe word Embeddings </a>
 ---
 
 ### Object Detection 
