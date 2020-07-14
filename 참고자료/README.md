@@ -79,6 +79,7 @@
 * <a href = "https://github.com/kimwoonggon/publicservant_AI"> publicservant_AI </a>
 * <a href = "https://blog.pingpong.us/dialog-bert-pretrain/"> 카톡 대화 데이터를 BERT로 잘 학습시킬 수 있을까? - Dialog-BERT 만들기 </a>
 * <a href = "https://jiho-ml.com/weekly-nlp-9/"> Week 9 - 글을 그림처럼 보는 Convolutional Neural Network (CNN) </a>
+* <a href = "https://jiho-ml.com/weekly-nlp-10/"> Week 10 - 단어를 컨베이어 벨트처럼 한개씩: RNN </a>
 * - <a href = "https://code.google.com/archive/p/word2vec/"> pretrained embedding (Google) </a>
 * - <a href = "https://nlp.stanford.edu/projects/glove/"> pretrained embedding (GloVe) </a>
 * - <a href = "https://fasttext.cc/"> pretrained embedding (FastText) </a>
