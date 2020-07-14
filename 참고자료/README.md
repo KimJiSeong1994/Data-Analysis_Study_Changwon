@@ -117,6 +117,7 @@
 ___
 
 ### etc. 
+* <a href = "https://bookdown.org/lexcomber/brunsdoncomber2e/"> Code for An Introduction to Spatial Analysis and Mapping in R 2nd edition </a>
 * <a href= "https://www.kaggle.com/dansbecker/permutation-importance?utm_medium=email&utm_source=mailchimp&utm_campaign=ml4insights&fbclid=IwAR3t9qwMx9kKO_QYl4DFRulntoewiPmCJvKSYdWN7kdVGbgCFIITSkPq4Ao"> permutation importance </a>
 * <a href= "https://rstudio-pubs-static.s3.amazonaws.com/192402_012091b9adac42dbbd22c4d07cb00d36.html?fbclid=IwAR0xM_woUalBjhrx9tv2SCA0-QIh8Man5K6TSl4Rdk10JsAYE8GgmpySJkA"> 누락된 자료의 처리 방법</a>
 * <a href="https://towardsdatascience.com/all-about-missing-data-handling-b94b8b5d2184"> All About Missing Data Handling: Missing Data Imputation Techniques
