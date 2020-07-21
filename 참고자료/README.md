@@ -120,6 +120,7 @@
 ___
 
 ### etc. 
+* <a href = "https://kateto.net/networks-r-igraph" > Network analysis with R and igraph: NetSci X Tutorial </a>
 * <a href = "https://moderndive.com/index.html"> Statistical Inference via Data Science </a>
 * <a href = "https://bookdown.org/lexcomber/brunsdoncomber2e/"> Code for An Introduction to Spatial Analysis and Mapping in R 2nd edition </a>
 * <a href= "https://www.kaggle.com/dansbecker/permutation-importance?utm_medium=email&utm_source=mailchimp&utm_campaign=ml4insights&fbclid=IwAR3t9qwMx9kKO_QYl4DFRulntoewiPmCJvKSYdWN7kdVGbgCFIITSkPq4Ao"> permutation importance </a>
