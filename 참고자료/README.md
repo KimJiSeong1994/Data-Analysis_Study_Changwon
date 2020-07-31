@@ -82,6 +82,8 @@
 * <a href = "https://jiho-ml.com/weekly-nlp-10/"> Week 10 - 단어를 컨베이어 벨트처럼 한개씩: RNN </a>
 * <a href = "https://jiho-ml.com/weekly-nlp-11/"> Week 11 - 머신러닝 모델이 데이터를 공부하는 방법 </a>
 * <a href = "https://jiho-ml.com/weekly-nlp-12/"> Week 12 - AI 모델에게도 예비 고사와 수능이 있다고요? </a>
+* <a href = "https://jiho-ml.com/weekly-nlp-13/"> Week 13 - 언어를 모델링한다? Language Model Basics </a>
+* <a href = "https://jiho-ml.com/weekly-nlp-14/"> Week 14 - 숫자만 잘 세도 NLP 모델이 된다? N-gram language model </a>
 * - <a href = "https://code.google.com/archive/p/word2vec/"> pretrained embedding (Google) </a>
 * - <a href = "https://nlp.stanford.edu/projects/glove/"> pretrained embedding (GloVe) </a>
 * - <a href = "https://fasttext.cc/"> pretrained embedding (FastText) </a>
