@@ -93,6 +93,7 @@
 * <a href = "https://brunch.co.kr/@kakao-it/139"> Get To the Point : Summarization with Pointer-GENERATOR Networks </a>
 * <a href = "https://brunch.co.kr/@geumjaelee/3"> 자연어와 이미지의 피처 </a>
 * <a href = "https://brunch.co.kr/@geumjaelee/1"> 논리로 이해하는 자연어처리 </a>
+* <a href = "https://brunch.co.kr/@geumjaelee/2"> MC(마르코프체인)과 HMM(은닉마르코프모델)의 이해 </a>
 ---
 
 ### Object Detection 
