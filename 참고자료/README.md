@@ -91,6 +91,7 @@
 * <a href = "https://github.com/KimJiSeong1994/kochat"> Kochat </a>
 * <a href = "https://cran.r-project.org/web/packages/text2vec/vignettes/glove.html"> GloVe word Embeddings </a>
 * <a href = "https://brunch.co.kr/@kakao-it/139"> Get To the Point : Summarization with Pointer-GENERATOR Networks </a>
+* <a href = "https://brunch.co.kr/@geumjaelee/3"> 자연어와 이미지의 피처 </a>
 ---
 
 ### Object Detection 
