@@ -95,6 +95,7 @@
 * <a href = "https://brunch.co.kr/@geumjaelee/1"> 논리로 이해하는 자연어처리 </a>
 * <a href = "https://brunch.co.kr/@geumjaelee/2"> MC(마르코프체인)과 HMM(은닉마르코프모델)의 이해 </a>
 * <a href = "https://brunch.co.kr/@geumjaelee/4"> 자연어의 피처와 전처리 </a> 
+* <a href = "https://brunch.co.kr/@geumjaelee/5"> 워드 임베딩의 간략한 역사 </a>
 ---
 
 ### Object Detection 
