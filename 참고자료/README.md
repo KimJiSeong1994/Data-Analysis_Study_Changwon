@@ -84,6 +84,9 @@
 * <a href = "https://jiho-ml.com/weekly-nlp-12/"> Week 12 - AI 모델에게도 예비 고사와 수능이 있다고요? </a>
 * <a href = "https://jiho-ml.com/weekly-nlp-13/"> Week 13 - 언어를 모델링한다? Language Model Basics </a>
 * <a href = "https://jiho-ml.com/weekly-nlp-14/"> Week 14 - 숫자만 잘 세도 NLP 모델이 된다? N-gram language model </a>
+* <a href = "https://jiho-ml.com/weekly-nlp-15/"> <Week 15 - 인공지능은 말을 어떻게 알아 먹는걸까, ASR #1> </a>
+* <a href = "https://jiho-ml.com/weekly-nlp-16/"> Week 16 - AI은 어떻게 영어 발음을 나보다 잘 인식할 수 있을까 </a>
+* <a href = "https://jiho-ml.com/weekly-nlp-17/"> Week 17 - 딥러닝이 언어 모델에 필요한 이유 </a>
 * - <a href = "https://code.google.com/archive/p/word2vec/"> pretrained embedding (Google) </a>
 * - <a href = "https://nlp.stanford.edu/projects/glove/"> pretrained embedding (GloVe) </a>
 * - <a href = "https://fasttext.cc/"> pretrained embedding (FastText) </a>
